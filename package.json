@@ -1,0 +1,27 @@
+{
+  "name": "lessons-js-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "lint-staged": "lint-staged"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dante13Dark/lessons-JS-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dante13Dark/lessons-JS-core/issues"
+  },
+  "homepage": "https://github.com/Dante13Dark/lessons-JS-core#readme",
+  "dependencies": {
+    "husky": "^8.0.1",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "lint-staged": "^13.0.3"
+  }
+}
