@@ -12,17 +12,7 @@
 
 .radio {
   display: flex;
-  flex-grow: 1;
-}
-
-.radio__field {
   position: relative;
-  display: flex;
-  flex-grow: 1;
-}
-
-.radio__label {
-  display: flex;
   flex-grow: 1;
   gap: 0.5rem;
 }

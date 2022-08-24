@@ -70,8 +70,20 @@
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  padding: 0.5rem 1rem;
   box-sizing: border-box;
+}
+
+.dropdown__list-item .checkbox {
+  padding: 0.5rem 1rem;
+}
+
+.dropdown__list-item .checkbox__icon {
+  top: unset;
+  left: 1rem;
+}
+
+.dropdown__list-item .radio {
+  padding: 0.5rem 1rem;
 }
 
 .dropdown__title {

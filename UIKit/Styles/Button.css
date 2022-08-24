@@ -70,6 +70,7 @@
 .button_small {
   height: 1.5rem;
   padding: 0.25rem 0;
+  gap: 0.25rem;
 }
 
 .button_small .button__icon:first-child {
@@ -92,6 +93,7 @@
 .button_medium {
   height: 2rem;
   padding: 0.5rem 0;
+  gap: 0.5rem;
 }
 
 .button_medium .button__icon:first-child {

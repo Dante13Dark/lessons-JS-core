@@ -34,16 +34,14 @@
   background-color: transparent;
 }
 
-.searchbar__icon-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.searchbar__input::placeholder {
+  color: var(--color-light-blue);
 }
 
 .searchbar__icon {
   width: 1rem;
   height: 1rem;
-  stroke: var(--color-light-blue);
+  stroke: var(--color-blue);
   fill: none;
 }
 
